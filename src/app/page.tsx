@@ -3,10 +3,6 @@
 import { useState, FormEvent } from 'react';
 import { createClient } from '@supabase/supabase-js';
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL || '',
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ''
-)
 import { 
   Play, 
   Sparkles, 
@@ -26,6 +22,10 @@ import {
 } from 'lucide-react';
 
 const AssetIQApp = () => {
+  const supabase = createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL || '',
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ''
+  );
   const [showDemo, setShowDemo] = useState(false);
   const [demoStep, setDemoStep] = useState(0);
   const [showWaitlist, setShowWaitlist] = useState(false);
