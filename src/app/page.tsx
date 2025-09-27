@@ -540,7 +540,7 @@ const AssetIQApp = () => {
           <h2 className="text-4xl font-bold text-white mb-12">Frequently Asked Questions</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <div className="bg-emerald-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
-              <h3 className="text-xl font-semibold text-gray-900 mb-3">What are AI Agents and how do they work?</h3>
+              <h3 className="text-xl text-gray-900 mb-3">What are AI Agents and how do they work?</h3>
               <p className="text-gray-700">Think of AI Agents as your 24/7 research team. They automatically scan property markets, analyse deals, and flag opportunities while you sleep. No manual data entry, no waiting for reports.</p>
             </div>
             
