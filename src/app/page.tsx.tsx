@@ -1,11 +1,10 @@
-import React, { useState } from 'react';
+import { useState, FormEvent } from 'react';
 import { createClient } from '@supabase/supabase-js';
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL || '',
   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ''
 )
-import React, { useState } from 'react';
 import { 
   Play, 
   Sparkles, 
@@ -77,7 +76,7 @@ const AssetIQApp = () => {
     setShowWaitlist(true);
   };
 
-  const handleWaitlistSubmit = async (e: React.FormEvent) => {
+  const handleWaitlistSubmit = async (e: FormEvent) => {
     e.preventDefault();
     if (waitlistEmail) {
       try {
