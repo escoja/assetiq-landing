@@ -540,28 +540,28 @@ const AssetIQApp = () => {
           <h2 className="text-4xl font-bold text-white mb-12">Frequently Asked Questions</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <div className="bg-emerald-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
-              <h3 className="text-xl text-gray-900 mb-3">What are AI Agents and how do they work?</h3>
+              <h3 className="text-xl font-semibold text-gray-900 mb-3">What are AI Agents and how do they work?</h3>
               <p className="text-gray-700">Think of AI Agents as your 24/7 research team. They automatically scan property markets, analyse deals, and flag opportunities while you sleep. No manual data entry, no waiting for reports.</p>
             </div>
             
-            <div className="bg-gray-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
+            <div className="bg-emerald-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">How does AssetIQ compare to traditional property software?</h3>
-              <p className="text-gray-800">Most property software makes you do the work. AssetIQ does the work for you. Ask questions like "What's happening in the London office market?" and get instant, current answers.</p>
+              <p className="text-gray-700">Most property software makes you do the work. AssetIQ does the work for you. Ask questions like "What's happening in the London office market?" and get instant, current answers.</p>
             </div>
             
-            <div className="bg-gray-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
+            <div className="bg-emerald-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">What data sources do the AI agents use?</h3>
-              <p className="text-gray-800">Our agents connect to major UK property data providers, Companies House, planning applications, your own Excel files and databases, plus web scraping for market intelligence. All data is processed in real-time and cross-referenced for accuracy.</p>
+              <p className="text-gray-700">Our agents connect to major UK property data providers, Companies House, planning applications, your own Excel files and databases, plus web scraping for market intelligence. All data is processed in real-time and cross-referenced for accuracy.</p>
             </div>
             
-            <div className="bg-gray-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
+            <div className="bg-emerald-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">Is my data secure?</h3>
-              <p className="text-gray-800">Yes. We use bank-grade encryption, store data in UK-based servers, and comply with UK GDPR. Your property and business data remains confidential and is never shared with competitors or third parties.</p>
+              <p className="text-gray-700">Yes. We use bank-grade encryption, store data in UK-based servers, and comply with UK GDPR. Your property and business data remains confidential and is never shared with competitors or third parties.</p>
             </div>
             
-            <div className="bg-gray-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
+            <div className="bg-emerald-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">Can I cancel anytime?</h3>
-              <p className="text-gray-800">Absolutely. You can cancel your subscription anytime with 30 days notice. We also offer a 30-day free trial so you can test all features before committing.</p>
+              <p className="text-gray-700">Absolutely. You can cancel your subscription anytime with 30 days notice. We also offer a 30-day free trial so you can test all features before committing.</p>
             </div>
           </div>
         </div>
