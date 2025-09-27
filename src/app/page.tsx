@@ -540,8 +540,8 @@ const AssetIQApp = () => {
           <h2 className="text-4xl font-bold text-white mb-12">Frequently Asked Questions</h2>
           <div className="max-w-4xl mx-auto space-y-6">
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
-              <h3 className="text-xl font-semibold text-white mb-3">What are AI Agents and how do they work?</h3>
-              <p className="text-gray-300">AI Agents are specialized artificial intelligence programs that can autonomously perform specific tasks and make decisions. Unlike traditional software that requires constant input, our AI agents continuously monitor data sources, analyze information, and provide insights without manual intervention.</p>
+              <h3 className="text-xl font-semibold text-black mb-3">What are AI Agents and how do they work?</h3>
+              <p className="text-black-300">AI Agents are specialized artificial intelligence programs that can autonomously perform specific tasks and make decisions. Unlike traditional software that requires constant input, our AI agents continuously monitor data sources, analyze information, and provide insights without manual intervention.</p>
             </div>
             
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
