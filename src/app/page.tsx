@@ -457,7 +457,7 @@ const AssetIQApp = () => {
 
           <div className="text-center mt-8">
             <div className="bg-white bg-opacity-10 rounded-xl p-4 backdrop-blur-sm inline-block">
-              <p className="text-gray-900 font-semibold text-sm">
+              <p className="text-gray-300 font-semibold text-sm">
                 💡 Each agent can chat with you in natural language - just ask prompts like "What's happening in the Manchester office market?"
               </p>
             </div>
