@@ -541,27 +541,27 @@ const AssetIQApp = () => {
           <div className="max-w-4xl mx-auto space-y-6">
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">What are AI Agents and how do they work?</h3>
-              <p className="text-dark-gray-300">AI Agents are specialized artificial intelligence programs that can autonomously perform specific tasks and make decisions. Unlike traditional software that requires constant input, our AI agents continuously monitor data sources, analyze information, and provide insights without manual intervention.</p>
+              <p className="text-gray-900">AI Agents are specialized artificial intelligence programs that can autonomously perform specific tasks and make decisions. Unlike traditional software that requires constant input, our AI agents continuously monitor data sources, analyze information, and provide insights without manual intervention.</p>
             </div>
             
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">How does AssetIQ compare to traditional property software?</h3>
-              <p className="text-black-300">Traditional property software requires manual data entry and only provides static reports. AssetIQ's AI agents work 24/7, automatically gathering and analyzing data from multiple sources, and can answer questions in natural language.</p>
+              <p className="text-gray-900">Traditional property software requires manual data entry and only provides static reports. AssetIQ's AI agents work 24/7, automatically gathering and analyzing data from multiple sources, and can answer questions in natural language.</p>
             </div>
             
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">What data sources do the AI agents use?</h3>
-              <p className="text-black-300">Our agents connect to major UK property data providers, Companies House, planning applications, your own Excel files and databases, plus web scraping for market intelligence. All data is processed in real-time and cross-referenced for accuracy.</p>
+              <p className="text-gray-900">Our agents connect to major UK property data providers, Companies House, planning applications, your own Excel files and databases, plus web scraping for market intelligence. All data is processed in real-time and cross-referenced for accuracy.</p>
             </div>
             
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">Is my data secure?</h3>
-              <p className="text-black-300">Yes. We use bank-grade encryption, store data in UK-based servers, and comply with UK GDPR. Your property and business data remains confidential and is never shared with competitors or third parties.</p>
+              <p className="text-gray-900">Yes. We use bank-grade encryption, store data in UK-based servers, and comply with UK GDPR. Your property and business data remains confidential and is never shared with competitors or third parties.</p>
             </div>
             
             <div className="bg-white bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">Can I cancel anytime?</h3>
-              <p className="text-black-300">Absolutely. You can cancel your subscription anytime with 30 days notice. We also offer a 30-day free trial so you can test all features before committing.</p>
+              <p className="text-gray-900">Absolutely. You can cancel your subscription anytime with 30 days notice. We also offer a 30-day free trial so you can test all features before committing.</p>
             </div>
           </div>
         </div>
