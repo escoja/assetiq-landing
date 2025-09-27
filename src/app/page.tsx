@@ -591,4 +591,6 @@ const AssetIQApp = () => {
   );
 };
 
-export default AssetIQApp;
+export default function Page() {
+  return <AssetIQApp />;
+}
