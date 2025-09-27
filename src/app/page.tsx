@@ -539,14 +539,14 @@ const AssetIQApp = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-white mb-12">Frequently Asked Questions</h2>
           <div className="max-w-4xl mx-auto space-y-6">
-            <div className="bg-gray-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
-              <h3 className="text-xl font-semibold text-black mb-3">What are AI Agents and how do they work?</h3>
-              <p className="text-gray-800">AI Agents are specialized artificial intelligence programs that can autonomously perform specific tasks and make decisions. Unlike traditional software that requires constant input, our AI agents continuously monitor data sources, analyze information, and provide insights without manual intervention.</p>
+            <div className="bg-emerald-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
+              <h3 className="text-xl font-semibold text-gray-900 mb-3">What are AI Agents and how do they work?</h3>
+              <p className="text-gray-700">Think of AI Agents as your 24/7 research team. They automatically scan property markets, analyse deals, and flag opportunities while you sleep. No manual data entry, no waiting for reports.</p>
             </div>
             
             <div className="bg-gray-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
               <h3 className="text-xl font-semibold text-black mb-3">How does AssetIQ compare to traditional property software?</h3>
-              <p className="text-gray-800">Traditional property software requires manual data entry and only provides static reports. AssetIQ's AI agents work 24/7, automatically gathering and analyzing data from multiple sources, and can answer questions in natural language.</p>
+              <p className="text-gray-800">Most property software makes you do the work. AssetIQ does the work for you. Ask questions like "What's happening in the London office market?" and get instant, current answers.</p>
             </div>
             
             <div className="bg-gray-50 bg-opacity-10 backdrop-blur-lg rounded-xl p-6 border border-orange-300 border-opacity-20">
