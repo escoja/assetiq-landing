@@ -512,7 +512,7 @@ const AssetIQApp = () => {
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-white" />
-                    <span className="text-white">Access to New Agents & Updates For Free</span>
+                    <span className="text-white">Access to New Agents & Updates</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-white" />
