@@ -492,7 +492,7 @@ const AssetIQApp = () => {
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-white" />
-                    <span className="text-white">Advanced DCF Modeling</span>
+                    <span className="text-white">Advanced DCF Modelling</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-white" />
@@ -512,7 +512,7 @@ const AssetIQApp = () => {
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-white" />
-                    <span className="text-white">Access to future agents and features at no extra cost</span>
+                    <span className="text-white">Access to New Agents & Updates For Free</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <CheckCircle className="h-5 w-5 text-white" />
